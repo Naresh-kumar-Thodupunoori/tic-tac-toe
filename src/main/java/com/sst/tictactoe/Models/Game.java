@@ -5,7 +5,6 @@ import com.sst.tictactoe.Strategies.GameDrawAlgorithms.GameDrawCheck;
 import com.sst.tictactoe.Strategies.GameDrawAlgorithms.GameDrawCheck1;
 import com.sst.tictactoe.Strategies.WinningAlgorithms.WinningAlgorithm;
 import com.sst.tictactoe.Strategies.WinningAlgorithms.WinningAlgorithm1;
-import com.sst.tictactoe.Strategies.WinningAlgorithms.WinningAlgorithm2;
 import lombok.Getter;
 import lombok.Setter;
 
