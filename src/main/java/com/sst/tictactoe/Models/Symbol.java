@@ -1,4 +1,4 @@
-package com.scaler.tictactoe.Models;
+package com.sst.tictactoe.Models;
 
 import lombok.Getter;
 import lombok.Setter;
@@ -8,4 +8,8 @@ import lombok.Setter;
 public class Symbol {
 
     private char sign;
+
+    public Symbol(char sign) {
+        this.sign = sign;
+    }
 }
